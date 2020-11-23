@@ -1,0 +1,3 @@
+graft TeamCoding
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  TeamCoding/jupy *
